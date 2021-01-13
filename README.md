@@ -1,0 +1,1 @@
+A simple function to help with the horner method in discrete mathematics.
